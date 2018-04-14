@@ -1,0 +1,204 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul.first li {
+  display: inline-block;
+  text-indent: 42px;
+  text-align: center;
+  padding: 10px
+
+
+}
+.navigation {
+  font-size: 18px;
+  height: 40px;
+  width: 100%;
+  background-color: #1b1919;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-family: serif;
+  position: fixed;
+  opacity: .80
+}
+.first a {
+  color: white;
+  text-decoration: none;
+}
+.section {
+  height: 600px;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 30px;
+  line-height: .15;
+  background-color: #FAFAFA;
+  background-image: url(../img/iphone_x_large_2x.jpg);
+  background-repeat: no-repeat;
+  background-size: 850px;
+  background-position: 50% 75%;
+}
+.section h1 {
+  padding-top: 90px;
+  position: static;
+  top: 15px;
+}
+.section h4{
+  margin-top: 50px;
+}
+.pink {
+  height: 600px;
+  background-color: #F9F0EB;
+  text-align: center;
+  font-size: 30px;
+  line-height: 10px;
+  background-image: url(../img/pinkiphone.jpg);
+  background-repeat: no-repeat;
+  background-size: 550px;
+  background-position: center;
+}
+.pink h1 {
+  padding-top: 80px;
+}
+.pink h4 {
+  margin-top: 50px;
+}
+.ipad {
+  height: 600px;
+  background-color: #F5F5F5;
+  text-align: center;
+  font-size: 30px;
+  background-image: url(../img/ipadandpencil.jpg);
+  background-repeat: no-repeat;
+  background-size: 1100px;
+  background-position: 50% bottom;
+}
+.ipad h1 {
+  padding-top: 50px;
+  line-height: .3;
+}
+.ipad h4 {
+  margin-top: 50px;
+}
+.product {
+  height: 570px;
+  width: 47%;
+padding-top: 35px;
+  margin: 10px;
+  display: inline-block;
+padding-left: 15px;
+background-color: #FAFAFA;
+vertical-align: top;
+text-align: center;
+font-size: 22px;
+line-height: 1.5;
+}
+.product a {
+  text-decoration: none;
+  color: #0070CE;
+}
+.product h4 {
+  font-weight: lighter;
+}
+span {
+  font-size: 20px;
+  color: #CF3030;
+  text-transform: capitalize;
+  padding-bottom: 50px;
+}
+.one {
+  background-image: url(../img/1apple.png);
+  background-repeat: no-repeat;
+  background-size: 690px;
+  background-position: 50% bottom;
+}
+.two {
+  background-image: url(../img/twoipads.jpg);
+  background-repeat: no-repeat;
+  background-size: 550px;
+  background-position: 50% 50%;
+
+}
+.three {
+
+  color: white;
+  background: linear-gradient(#121212 0%, #3e3e3c 103%);
+  background-image: url(../img/imacpro.jpg);
+  background-size: 750px;
+  background-position: 50% 90%;
+
+}
+.four {
+  background-image: url(../img/applewatch.png);
+  background-repeat: no-repeat;
+  background-size: 550px;
+  background-position: 50% 80%;
+  background-color: #F0F0F0
+}
+.five {
+  color: white;
+  background-image: url(../img/homepod.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+span.down {
+  color: white;
+  display: table-cell;
+ vertical-align: bottom;
+
+}
+.six {
+  background-image: url(../img/headphones.jpg);
+  background-repeat: no-repeat;
+  background-size: 450px;
+  background-position: 50% 85%;
+  background-color: #FFFFFF;
+}
+
+}
+.last {
+  font-size: 12px;
+  height: 500px;
+  width: 100%;
+  color: silver;
+  background-color: #F2F2F2;
+  text-align: center;
+display: block;
+float: right;
+text-decoration: none;
+
+}
+.final {
+  display: block;
+  float: left;
+  text-decoration: none;
+padding-top: 15px;
+height: 300px;
+width: 20%;
+background-color: #F2F2F2;
+font-size: 12px;
+list-style-type: none;
+text-align: center;
+padding-top: 75px;
+
+}
+#end {
+  background-color: #F2F2F2;
+  text-indent: 85px;
+  font-size: 12px;
+  padding-bottom: 10px;
+}
+.fa-flag-checkered{
+  float: right;
+}
+
+a.ha {
+  text-decoration: none;
+}
+span.wow {
+  font-size: 12px;
+  color: black;
+  font-weight: bold;
+  padding-left: 245px;
+}
